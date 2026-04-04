@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cars>
+            
+    
+    <car>
+                        
+        
+        <brand>Toyota</brand>
+                        
+        
+        <model>Camry</model>
+                        
+        
+        <year>2020</year>
+                        
+        
+        <color>Белый</color>
+                        
+        
+        <price>2500000</price>
+                    
+    
+    </car>
+            
+    
+    
+    
+    <car>
+                
+        <brand>Volkswagen</brand>
+                
+        <model>Passat</model>
+                
+        <year>2018</year>
+            
+    </car>
+    
+</cars>
